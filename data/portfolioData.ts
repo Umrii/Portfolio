@@ -13,8 +13,8 @@ export const personalInfo: PersonalInfo = {
 export const aboutMe: AboutMe = {
   paragraphs: [
     "I’m a software engineer with a strong foundation in Python and full-stack development, currently pursuing a Master’s in Data Science at Northumbria University, Newcastle, UK.",
-    "I enjoy building practical systems that turn data into reliable, usable products, with experience across backend services, databases, and cloud-based workflows.",
-    "Right now, I’m focused on data engineering, scalable architectures, and sharpening my problem-solving skills for real-world impact."
+    "This is an experimental portfolio site, where I am just trying to build stuff",
+    "Right now, I’m focused on building cool stuff with AI."
   ]
 };
 
