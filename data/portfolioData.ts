@@ -13,8 +13,7 @@ export const personalInfo: PersonalInfo = {
 export const aboutMe: AboutMe = {
   paragraphs: [
     "I’m a software engineer with a strong foundation in Python and full-stack development, currently pursuing a Master’s in Data Science at Northumbria University, Newcastle, UK.",
-    "This is an experimental portfolio site, where I am just trying to build stuff",
-    "Right now, I’m focused on building cool stuff with AI."
+    "This is an experimental portfolio site, where I am just trying to build stuff"
   ]
 };
 
