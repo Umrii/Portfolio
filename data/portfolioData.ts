@@ -19,14 +19,22 @@ export const aboutMe: AboutMe = {
 
 
 export const projects: Project[] = [
-  {
+    {
     id: 1,
+    title: "Cinematch",
+    description: "I created an experimental Movies Website, using TMDB API's, since I love movies so much, I am trying to integrate a machine learning movie recommender system here ;)",
+    techStack: ["NextJS", "React", "Vercel", "NodeJS"],
+    liveDemo: "https://cinematch.anasatiq.com/",
+    github: "https://github.com/Umrii/Cinematch"
+  },
+  {
+    id: 2,
     title: "Mood-Aware Music Recommendation System",
     description: "A data-driven music recommendation system that analyzes audio features to cluster songs by mood and suggest personalized tracks based on emotional context.",
     techStack: ["Python", "Pandas", "NumPy", "Scikit-learn", "K-Means", "Spotify Audio Features"],
     liveDemo: "",
     github: "https://github.com/Umrii/Mood-Aware-Music-Recommendation-System"
-  }
+  },
 ];
 
 export const resumeData: ResumeData = {
