@@ -15,9 +15,6 @@ const Projects: React.FC = () => {
             <ProjectCard key={project.id} project={project} />
           ))}
         </div>
-        <p className="text-center text-gray-400 mt-12 text-lg">
-          More amazing projects coming soon...
-        </p>
       </div>
     </section>
   );
