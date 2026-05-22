@@ -24,7 +24,7 @@ export const projects: Project[] = [
     title: "Carbon Market Tracker",
     description: "End-to-end data pipeline tracking live EU ETS carbon allowance (EUA) prices from the European Energy Exchange (EEX). Features a FastAPI REST API serving rolling analytics (7-day MA, 30-day MA, annualised volatility) and automated price alerts, visualised in an interactive Streamlit dashboard.",
     techStack: ["Python", "FastAPI", "SQLite", "Streamlit", "Plotly", "APScheduler"],
-    liveDemo: "",
+    liveDemo: "https://carbon-market-tracker.onrender.com/",
     github: "https://github.com/Umrii/carbon-market-tracker"
   },
   {
