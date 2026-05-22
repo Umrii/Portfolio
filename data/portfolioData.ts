@@ -4,7 +4,7 @@ import { PersonalInfo, AboutMe, Project, ResumeData, BlogPost } from '@/types';
 export const personalInfo: PersonalInfo = {
   name: "Anas Atiq",
   tagline: "MSc Data Science | Python Developer | Data Engineering & Energy Tech",
-  description: "Learning AI and trying to build cool stuff",
+  description: "Building data pipelines and APIs that solve real problems",
   email: "anas.atiq2023@gmail.com",
   github: "https://github.com/Umrii",
   linkedin: "https://www.linkedin.com/in/anas-atiq/"
